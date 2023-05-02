@@ -1,6 +1,6 @@
 Final Project 1051- Visual Novel 
 YOUTUBE VIDEO - https://youtu.be/E4GuDQLp_7M 
-Overview: 
+Overview: I made general plot, incorporating different characters of the game, with a dialogue. Each character has its oen purpose in the plot and it is up to the user to figure out how to get a good ending. 
 
 Purpose: The purpose of this project is to entertain the users. Visual novels are not only a game but also story telling in a unique way where the decisions made by the user directly affects how to story goes on, leading to different paths and endings. That is why it is important that the story interacts with the user, if not it would not be a game. 
 
